@@ -1,0 +1,8 @@
+*.o
+*/.vscode
+*/.idea
+*/main
+.vscode
+.idea
+example_graphs/
+benchmark_graphs/

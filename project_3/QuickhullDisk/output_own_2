@@ -1,0 +1,240 @@
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_100.txt
+Took: 80849µs
+Took: 77245µs
+Took: 75502µs
+Took: 78223µs
+Took: 73882µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_10.txt
+Took: 13310µs
+Took: 13633µs
+Took: 13260µs
+Took: 13285µs
+Took: 13270µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_20.txt
+Took: 20308µs
+Took: 20218µs
+Took: 20293µs
+Took: 19866µs
+Took: 19987µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_30.txt
+Took: 26647µs
+Took: 26590µs
+Took: 26234µs
+Took: 25954µs
+Took: 25981µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_40.txt
+Took: 33508µs
+Took: 33790µs
+Took: 32913µs
+Took: 33684µs
+Took: 32985µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_50.txt
+Took: 40115µs
+Took: 40147µs
+Took: 39169µs
+Took: 39317µs
+Took: 40526µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_60.txt
+Took: 46305µs
+Took: 47474µs
+Took: 46774µs
+Took: 47263µs
+Took: 46374µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_70.txt
+Took: 55321µs
+Took: 53958µs
+Took: 54697µs
+Took: 56339µs
+Took: 53959µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_80.txt
+Took: 61534µs
+Took: 60559µs
+Took: 60934µs
+Took: 60630µs
+Took: 62328µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/MIXED/N100000_90.txt
+Took: 66772µs
+Took: 67772µs
+Took: 68835µs
+Took: 66833µs
+Took: 68928µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N10000.txt
+Took: 2220µs
+Took: 2260µs
+Took: 2131µs
+Took: 2186µs
+Took: 2253µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N1000.txt
+Took: 251µs
+Took: 165µs
+Took: 384µs
+Took: 393µs
+Took: 226µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N2000.txt
+Took: 426µs
+Took: 313µs
+Took: 327µs
+Took: 325µs
+Took: 311µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N3000.txt
+Took: 476µs
+Took: 492µs
+Took: 491µs
+Took: 471µs
+Took: 676µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N4000.txt
+Took: 810µs
+Took: 921µs
+Took: 860µs
+Took: 883µs
+Took: 814µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N5000.txt
+Took: 1140µs
+Took: 1081µs
+Took: 1151µs
+Took: 1066µs
+Took: 1102µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N6000.txt
+Took: 1250µs
+Took: 1327µs
+Took: 1239µs
+Took: 1299µs
+Took: 893µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N7000.txt
+Took: 1231µs
+Took: 2209µs
+Took: 1434µs
+Took: 1028µs
+Took: 1631µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N8000.txt
+Took: 1173µs
+Took: 1951µs
+Took: 1604µs
+Took: 1833µs
+Took: 1540µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-A-LINE/N9000.txt
+Took: 1408µs
+Took: 1436µs
+Took: 2061µs
+Took: 1387µs
+Took: 1607µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N100000.txt
+Took: 73504µs
+Took: 74868µs
+Took: 75791µs
+Took: 73876µs
+Took: 73320µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N10000.txt
+Took: 9114µs
+Took: 7118µs
+Took: 6994µs
+Took: 7279µs
+Took: 10018µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N20000.txt
+Took: 17646µs
+Took: 17738µs
+Took: 17598µs
+Took: 17241µs
+Took: 17725µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N30000.txt
+Took: 24797µs
+Took: 23108µs
+Took: 21634µs
+Took: 22066µs
+Took: 21442µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N40000.txt
+Took: 30933µs
+Took: 29013µs
+Took: 29364µs
+Took: 30057µs
+Took: 29285µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N50000.txt
+Took: 37259µs
+Took: 35575µs
+Took: 38089µs
+Took: 36113µs
+Took: 35796µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N60000.txt
+Took: 43065µs
+Took: 44089µs
+Took: 44260µs
+Took: 43643µs
+Took: 43795µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N70000.txt
+Took: 52553µs
+Took: 53595µs
+Took: 52497µs
+Took: 52016µs
+Took: 51820µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N80000.txt
+Took: 63558µs
+Took: 58985µs
+Took: 59253µs
+Took: 58933µs
+Took: 58980µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/ON-BNDRY/N90000.txt
+Took: 69423µs
+Took: 67155µs
+Took: 66261µs
+Took: 67779µs
+Took: 66844µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N100000.txt
+Took: 7383µs
+Took: 7400µs
+Took: 7477µs
+Took: 7456µs
+Took: 7422µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N10000.txt
+Took: 603µs
+Took: 589µs
+Took: 592µs
+Took: 852µs
+Took: 793µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N20000.txt
+Took: 1444µs
+Took: 1385µs
+Took: 1368µs
+Took: 1522µs
+Took: 1511µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N30000.txt
+Took: 2092µs
+Took: 2016µs
+Took: 1995µs
+Took: 1986µs
+Took: 2027µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N40000.txt
+Took: 2586µs
+Took: 2427µs
+Took: 2548µs
+Took: 2554µs
+Took: 2563µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N50000.txt
+Took: 3093µs
+Took: 3223µs
+Took: 3109µs
+Took: 3280µs
+Took: 3212µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N60000.txt
+Took: 3850µs
+Took: 3791µs
+Took: 3731µs
+Took: 3768µs
+Took: 3764µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N70000.txt
+Took: 4508µs
+Took: 4490µs
+Took: 4434µs
+Took: 4496µs
+Took: 4380µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N80000.txt
+Took: 5235µs
+Took: 5247µs
+Took: 5820µs
+Took: 5320µs
+Took: 5404µs
+/home/niels/The-Source-Code-and-Benchmark-Dataset-for-QuickhullDisk/test_data/RANDOM/N90000.txt
+Took: 6524µs
+Took: 6653µs
+Took: 6441µs
+Took: 6618µs
+Took: 6421µs

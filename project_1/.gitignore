@@ -1,0 +1,9 @@
+*.o
+*/.vscode
+*/.idea
+*/main
+*.clq
+.vscode
+.idea
+example_graphs/
+benchmark_graphs/

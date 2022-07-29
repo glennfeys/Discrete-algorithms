@@ -1,0 +1,22 @@
+benchmark;Graham Scan;Jarvis March;Quick Hull
+circle_10;15;16;16
+circle_100;18;19;20
+circle_1000;22;41;25
+circle_100_100;36;45;47
+circle_100_20;19;21;21
+circle_100_50;26;27;31
+circle_20;14;15;16
+circle_200;15;16;16
+circle_30_500;134;119;203
+circle_50;15;16;16
+circle_500;15;17;16
+random100;14;17;15
+random1000;15;17;15
+random10000;23;22;25
+random100000;112;93;171
+random1000000;947;867;1969
+random10000000;9677;8733;22451
+random20;14;22;18
+random250;14;25;16
+random50;14;21;17
+random500;15;22;17

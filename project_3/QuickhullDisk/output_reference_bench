@@ -1,0 +1,240 @@
+../test_data/MIXED/N100000_100.txt
+ QuickhullDisk comp. time: 0.687 sec
+ QuickhullDisk comp. time: 0.670 sec
+ QuickhullDisk comp. time: 0.670 sec
+ QuickhullDisk comp. time: 0.684 sec
+ QuickhullDisk comp. time: 0.665 sec
+../test_data/MIXED/N100000_10.txt
+ QuickhullDisk comp. time: 0.114 sec
+ QuickhullDisk comp. time: 0.116 sec
+ QuickhullDisk comp. time: 0.116 sec
+ QuickhullDisk comp. time: 0.114 sec
+ QuickhullDisk comp. time: 0.116 sec
+../test_data/MIXED/N100000_20.txt
+ QuickhullDisk comp. time: 0.169 sec
+ QuickhullDisk comp. time: 0.170 sec
+ QuickhullDisk comp. time: 0.170 sec
+ QuickhullDisk comp. time: 0.170 sec
+ QuickhullDisk comp. time: 0.172 sec
+../test_data/MIXED/N100000_30.txt
+ QuickhullDisk comp. time: 0.225 sec
+ QuickhullDisk comp. time: 0.228 sec
+ QuickhullDisk comp. time: 0.228 sec
+ QuickhullDisk comp. time: 0.230 sec
+ QuickhullDisk comp. time: 0.229 sec
+../test_data/MIXED/N100000_40.txt
+ QuickhullDisk comp. time: 0.287 sec
+ QuickhullDisk comp. time: 0.313 sec
+ QuickhullDisk comp. time: 0.289 sec
+ QuickhullDisk comp. time: 0.285 sec
+ QuickhullDisk comp. time: 0.284 sec
+../test_data/MIXED/N100000_50.txt
+ QuickhullDisk comp. time: 0.346 sec
+ QuickhullDisk comp. time: 0.348 sec
+ QuickhullDisk comp. time: 0.347 sec
+ QuickhullDisk comp. time: 0.351 sec
+ QuickhullDisk comp. time: 0.349 sec
+../test_data/MIXED/N100000_60.txt
+ QuickhullDisk comp. time: 0.405 sec
+ QuickhullDisk comp. time: 0.419 sec
+ QuickhullDisk comp. time: 0.405 sec
+ QuickhullDisk comp. time: 0.405 sec
+ QuickhullDisk comp. time: 0.409 sec
+../test_data/MIXED/N100000_70.txt
+ QuickhullDisk comp. time: 0.486 sec
+ QuickhullDisk comp. time: 0.473 sec
+ QuickhullDisk comp. time: 0.467 sec
+ QuickhullDisk comp. time: 0.469 sec
+ QuickhullDisk comp. time: 0.471 sec
+../test_data/MIXED/N100000_80.txt
+ QuickhullDisk comp. time: 0.546 sec
+ QuickhullDisk comp. time: 0.541 sec
+ QuickhullDisk comp. time: 0.535 sec
+ QuickhullDisk comp. time: 0.540 sec
+ QuickhullDisk comp. time: 0.533 sec
+../test_data/MIXED/N100000_90.txt
+ QuickhullDisk comp. time: 0.611 sec
+ QuickhullDisk comp. time: 0.599 sec
+ QuickhullDisk comp. time: 0.605 sec
+ QuickhullDisk comp. time: 0.604 sec
+ QuickhullDisk comp. time: 0.609 sec
+../test_data/ON-A-LINE/N10000.txt
+ QuickhullDisk comp. time: 0.221 sec
+ QuickhullDisk comp. time: 0.229 sec
+ QuickhullDisk comp. time: 0.228 sec
+ QuickhullDisk comp. time: 0.221 sec
+ QuickhullDisk comp. time: 0.218 sec
+../test_data/ON-A-LINE/N1000.txt
+ QuickhullDisk comp. time: 0.025 sec
+ QuickhullDisk comp. time: 0.026 sec
+ QuickhullDisk comp. time: 0.025 sec
+ QuickhullDisk comp. time: 0.022 sec
+ QuickhullDisk comp. time: 0.024 sec
+../test_data/ON-A-LINE/N2000.txt
+ QuickhullDisk comp. time: 0.045 sec
+ QuickhullDisk comp. time: 0.038 sec
+ QuickhullDisk comp. time: 0.038 sec
+ QuickhullDisk comp. time: 0.039 sec
+ QuickhullDisk comp. time: 0.038 sec
+../test_data/ON-A-LINE/N3000.txt
+ QuickhullDisk comp. time: 0.063 sec
+ QuickhullDisk comp. time: 0.061 sec
+ QuickhullDisk comp. time: 0.061 sec
+ QuickhullDisk comp. time: 0.060 sec
+ QuickhullDisk comp. time: 0.061 sec
+../test_data/ON-A-LINE/N4000.txt
+ QuickhullDisk comp. time: 0.076 sec
+ QuickhullDisk comp. time: 0.079 sec
+ QuickhullDisk comp. time: 0.078 sec
+ QuickhullDisk comp. time: 0.077 sec
+ QuickhullDisk comp. time: 0.086 sec
+../test_data/ON-A-LINE/N5000.txt
+ QuickhullDisk comp. time: 0.109 sec
+ QuickhullDisk comp. time: 0.108 sec
+ QuickhullDisk comp. time: 0.097 sec
+ QuickhullDisk comp. time: 0.097 sec
+ QuickhullDisk comp. time: 0.109 sec
+../test_data/ON-A-LINE/N6000.txt
+ QuickhullDisk comp. time: 0.129 sec
+ QuickhullDisk comp. time: 0.129 sec
+ QuickhullDisk comp. time: 0.131 sec
+ QuickhullDisk comp. time: 0.130 sec
+ QuickhullDisk comp. time: 0.130 sec
+../test_data/ON-A-LINE/N7000.txt
+ QuickhullDisk comp. time: 0.159 sec
+ QuickhullDisk comp. time: 0.159 sec
+ QuickhullDisk comp. time: 0.154 sec
+ QuickhullDisk comp. time: 0.154 sec
+ QuickhullDisk comp. time: 0.144 sec
+../test_data/ON-A-LINE/N8000.txt
+ QuickhullDisk comp. time: 0.170 sec
+ QuickhullDisk comp. time: 0.168 sec
+ QuickhullDisk comp. time: 0.172 sec
+ QuickhullDisk comp. time: 0.173 sec
+ QuickhullDisk comp. time: 0.163 sec
+../test_data/ON-A-LINE/N9000.txt
+ QuickhullDisk comp. time: 0.194 sec
+ QuickhullDisk comp. time: 0.185 sec
+ QuickhullDisk comp. time: 0.183 sec
+ QuickhullDisk comp. time: 0.185 sec
+ QuickhullDisk comp. time: 0.186 sec
+../test_data/ON-BNDRY/N100000.txt
+ QuickhullDisk comp. time: 0.662 sec
+ QuickhullDisk comp. time: 0.677 sec
+ QuickhullDisk comp. time: 0.664 sec
+ QuickhullDisk comp. time: 0.665 sec
+ QuickhullDisk comp. time: 0.671 sec
+../test_data/ON-BNDRY/N10000.txt
+ QuickhullDisk comp. time: 0.054 sec
+ QuickhullDisk comp. time: 0.054 sec
+ QuickhullDisk comp. time: 0.054 sec
+ QuickhullDisk comp. time: 0.055 sec
+ QuickhullDisk comp. time: 0.054 sec
+../test_data/ON-BNDRY/N20000.txt
+ QuickhullDisk comp. time: 0.115 sec
+ QuickhullDisk comp. time: 0.120 sec
+ QuickhullDisk comp. time: 0.115 sec
+ QuickhullDisk comp. time: 0.118 sec
+ QuickhullDisk comp. time: 0.120 sec
+../test_data/ON-BNDRY/N30000.txt
+ QuickhullDisk comp. time: 0.181 sec
+ QuickhullDisk comp. time: 0.178 sec
+ QuickhullDisk comp. time: 0.179 sec
+ QuickhullDisk comp. time: 0.179 sec
+ QuickhullDisk comp. time: 0.177 sec
+../test_data/ON-BNDRY/N40000.txt
+ QuickhullDisk comp. time: 0.247 sec
+ QuickhullDisk comp. time: 0.246 sec
+ QuickhullDisk comp. time: 0.247 sec
+ QuickhullDisk comp. time: 0.244 sec
+ QuickhullDisk comp. time: 0.249 sec
+../test_data/ON-BNDRY/N50000.txt
+ QuickhullDisk comp. time: 0.313 sec
+ QuickhullDisk comp. time: 0.316 sec
+ QuickhullDisk comp. time: 0.314 sec
+ QuickhullDisk comp. time: 0.313 sec
+ QuickhullDisk comp. time: 0.314 sec
+../test_data/ON-BNDRY/N60000.txt
+ QuickhullDisk comp. time: 0.377 sec
+ QuickhullDisk comp. time: 0.385 sec
+ QuickhullDisk comp. time: 0.381 sec
+ QuickhullDisk comp. time: 0.381 sec
+ QuickhullDisk comp. time: 0.381 sec
+../test_data/ON-BNDRY/N70000.txt
+ QuickhullDisk comp. time: 0.447 sec
+ QuickhullDisk comp. time: 0.454 sec
+ QuickhullDisk comp. time: 0.446 sec
+ QuickhullDisk comp. time: 0.446 sec
+ QuickhullDisk comp. time: 0.471 sec
+../test_data/ON-BNDRY/N80000.txt
+ QuickhullDisk comp. time: 0.521 sec
+ QuickhullDisk comp. time: 0.601 sec
+ QuickhullDisk comp. time: 0.520 sec
+ QuickhullDisk comp. time: 0.531 sec
+ QuickhullDisk comp. time: 0.535 sec
+../test_data/ON-BNDRY/N90000.txt
+ QuickhullDisk comp. time: 0.598 sec
+ QuickhullDisk comp. time: 0.593 sec
+ QuickhullDisk comp. time: 0.598 sec
+ QuickhullDisk comp. time: 0.602 sec
+ QuickhullDisk comp. time: 0.603 sec
+../test_data/RANDOM/N100000.txt
+ QuickhullDisk comp. time: 0.070 sec
+ QuickhullDisk comp. time: 0.070 sec
+ QuickhullDisk comp. time: 0.070 sec
+ QuickhullDisk comp. time: 0.071 sec
+ QuickhullDisk comp. time: 0.078 sec
+../test_data/RANDOM/N10000.txt
+ QuickhullDisk comp. time: 0.006 sec
+ QuickhullDisk comp. time: 0.009 sec
+ QuickhullDisk comp. time: 0.008 sec
+ QuickhullDisk comp. time: 0.008 sec
+ QuickhullDisk comp. time: 0.006 sec
+../test_data/RANDOM/N20000.txt
+ QuickhullDisk comp. time: 0.012 sec
+ QuickhullDisk comp. time: 0.012 sec
+ QuickhullDisk comp. time: 0.013 sec
+ QuickhullDisk comp. time: 0.013 sec
+ QuickhullDisk comp. time: 0.014 sec
+../test_data/RANDOM/N30000.txt
+ QuickhullDisk comp. time: 0.019 sec
+ QuickhullDisk comp. time: 0.020 sec
+ QuickhullDisk comp. time: 0.021 sec
+ QuickhullDisk comp. time: 0.020 sec
+ QuickhullDisk comp. time: 0.020 sec
+../test_data/RANDOM/N40000.txt
+ QuickhullDisk comp. time: 0.025 sec
+ QuickhullDisk comp. time: 0.026 sec
+ QuickhullDisk comp. time: 0.027 sec
+ QuickhullDisk comp. time: 0.027 sec
+ QuickhullDisk comp. time: 0.026 sec
+../test_data/RANDOM/N50000.txt
+ QuickhullDisk comp. time: 0.033 sec
+ QuickhullDisk comp. time: 0.036 sec
+ QuickhullDisk comp. time: 0.034 sec
+ QuickhullDisk comp. time: 0.034 sec
+ QuickhullDisk comp. time: 0.033 sec
+../test_data/RANDOM/N60000.txt
+ QuickhullDisk comp. time: 0.042 sec
+ QuickhullDisk comp. time: 0.045 sec
+ QuickhullDisk comp. time: 0.040 sec
+ QuickhullDisk comp. time: 0.040 sec
+ QuickhullDisk comp. time: 0.042 sec
+../test_data/RANDOM/N70000.txt
+ QuickhullDisk comp. time: 0.049 sec
+ QuickhullDisk comp. time: 0.048 sec
+ QuickhullDisk comp. time: 0.049 sec
+ QuickhullDisk comp. time: 0.049 sec
+ QuickhullDisk comp. time: 0.050 sec
+../test_data/RANDOM/N80000.txt
+ QuickhullDisk comp. time: 0.055 sec
+ QuickhullDisk comp. time: 0.055 sec
+ QuickhullDisk comp. time: 0.056 sec
+ QuickhullDisk comp. time: 0.055 sec
+ QuickhullDisk comp. time: 0.054 sec
+../test_data/RANDOM/N90000.txt
+ QuickhullDisk comp. time: 0.063 sec
+ QuickhullDisk comp. time: 0.063 sec
+ QuickhullDisk comp. time: 0.062 sec
+ QuickhullDisk comp. time: 0.063 sec
+ QuickhullDisk comp. time: 0.061 sec
